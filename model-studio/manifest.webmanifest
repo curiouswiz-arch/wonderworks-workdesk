@@ -1,0 +1,1 @@
+{"id": "./", "name": "WONDERWORKS 모델 합성 요청", "short_name": "모델 스튜디오", "lang": "ko", "start_url": "./", "scope": "./", "display": "standalone", "background_color": "#f6f4f0", "theme_color": "#535c43", "icons": [{"src": "icon-192.png", "sizes": "192x192", "type": "image/png"}, {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}]}
